@@ -28,7 +28,7 @@ const Projects = () => {
         </div>
         </a>
 
-         <a href="expensetrack.vercel.app" target="_blank">
+         <a href="https://expensetrack.vercel.app" target="_blank">
         <div className="grid-item">
           <div className="grid-item-img">
           <img src={Project2}/>
@@ -44,7 +44,7 @@ const Projects = () => {
         </div>
         </a>
 
-<a href="vacationwebsite.vercel.app">
+<a href="https://vacationwebsite.vercel.app" target="_blank">
         <div className="grid-item">
           <div className="grid-item-img">
           <img src={Project3}/>
