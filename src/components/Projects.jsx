@@ -12,7 +12,7 @@ const Projects = () => {
       
       <div className="grid-container">
 
-       
+       <a href="https://house-marketplace-two-gules.vercel.app/" target="_blank">
         <div className="grid-item">
           <div className="grid-item-img">
             <img src={Project1}/>
@@ -26,7 +26,9 @@ const Projects = () => {
             </p>
           </div>
         </div>
+        </a>
 
+         <a href="expensetrack.vercel.app" target="_blank">
         <div className="grid-item">
           <div className="grid-item-img">
           <img src={Project2}/>
@@ -40,7 +42,9 @@ const Projects = () => {
             </p>
           </div>
         </div>
+        </a>
 
+<a href="vacationwebsite.vercel.app">
         <div className="grid-item">
           <div className="grid-item-img">
           <img src={Project3}/>
@@ -54,6 +58,7 @@ const Projects = () => {
             </p>
           </div>
         </div>
+        </a>
       </div>
     </section>
   )
