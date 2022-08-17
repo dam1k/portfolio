@@ -44,7 +44,7 @@ const Projects = () => {
         </div>
         </a>
 
-<a href="https://vacationwebsite.vercel.app" target="_blank">
+<a href="https://vacation-website.vercel.app" target="_blank">
         <div className="grid-item">
           <div className="grid-item-img">
           <img src={Project3}/>
