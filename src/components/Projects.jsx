@@ -1,6 +1,7 @@
 import Project1 from "../assets/img/project1.jpeg"
 import Project2 from "../assets/img/project2.jpeg"
 import Project3 from "../assets/img/project3.jpeg"
+import Project4 from "../assets/img/project4.jpeg"
 
 const Projects = () => {
   return (
@@ -11,6 +12,22 @@ const Projects = () => {
       <div className="blue-border"></div>
       
       <div className="grid-container">
+
+      <a href="https://euromobila.vercel.app/" target="_blank">
+        <div className="grid-item">
+          <div className="grid-item-img">
+            <img src={Project4}/>
+          </div>
+          <div className="grid-item-info">
+            <h3 className="grid-item-title">
+              Euromobila 
+            </h3>
+            <p className="grid-item-desc">
+            Website for Euromobila
+            </p>
+          </div>
+        </div>
+        </a>
 
        <a href="https://house-marketplace-two-gules.vercel.app/" target="_blank">
         <div className="grid-item">
