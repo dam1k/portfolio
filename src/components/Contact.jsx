@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="blue-border"></div>
     <p className="section-desc">Leave me a message and let's work together!</p>
     
-    <form action="https://formsubmit.co/damianbostan12@gmail.com" 
+    <form action="https://formsubmit.co/78753d43ad4c4a2fe7a1e499d00e1348" 
     method="POST" 
     target="_blank"
     className="form-container">
