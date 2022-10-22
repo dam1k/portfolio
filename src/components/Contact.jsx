@@ -9,8 +9,8 @@ const Contact = () => {
     method="POST" 
     target="_blank"
     className="form-container">
-      <input className="input" name="name" type="email" placeholder="Enter your Email" required/>
-      <input className="input " name="email" type="text" placeholder="Enter your Name" required/>
+      <input className="input" name="email" type="email" placeholder="Enter your Email" required/>
+      <input className="input " name="name" type="text" placeholder="Enter your Name" required/>
       <textarea name="message" className="message " placeholder="Enter your message" required/>
       <button type="submit" className="blue-btn btn">Send Email</button>
     </form>
