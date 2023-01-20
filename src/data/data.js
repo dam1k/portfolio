@@ -18,7 +18,7 @@ export const projects = [
           description: 'This website was created for our friends at Euromobila. They wanted a clean, modern website, so that their clients could easily find their products.',
           id:2,
           image: Project2,
-          url: 'https://euromobila.vercel.app'
+          url: 'https://euromobila.md'
      },
      {
           title: 'House Marketplace',
