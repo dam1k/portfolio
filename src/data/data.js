@@ -11,7 +11,7 @@ export const projects = [
           description: 'This is the website of my web development agency.',
           id:1,
           image: Project1,
-          url: 'https://euromobila.vercel.app'
+          url: 'https://dreamsite.md'
      },
      {
           title: 'Website for Euromobila',
